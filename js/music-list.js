@@ -36,7 +36,7 @@ let allMusic = [
         src:"music-6"
     },
     {
-        name:"ခင်ညွန့်ရီ - မှော်သဇင်",
+        name:"ခင်ညွန့်ရီ - မျှော်သဇင်",
         artist: "ခင်ညွန့်ရီ",
         img: "music-7",
         src:"music-7"
